@@ -3,6 +3,7 @@
   <display-name>ssh_test</display-name>
   <welcome-file-list>
   	<!-- 这是我的地盘 -->
+    <!-- 服务器：这是我的地盘 -->
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
     <welcome-file>index.jsp</welcome-file>
