@@ -3,7 +3,7 @@
   <display-name>ssh_test3</display-name>
   <welcome-file-list>
     <!-- 服务器端：第一次修改 -->
-    <!-- 第二次修改 -->
+    <!-- 客户端：第二次修改 -->
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
     <welcome-file>index.jsp</welcome-file>
